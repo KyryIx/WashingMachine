@@ -11,19 +11,19 @@ Link: https://www.youtube.com/watch?v=afLJ6qm46yg
 
 ### Screenshot in simulator
 
-[![Screenshot 1](./Screenshot_1_small.png "Screenshot 1")](./Screenshot_1_small.png "Screenshot 1")
+[![Screenshot 1](./Screenshot_1_small.png "Screenshot 1")](./Screenshot_1.png "Screenshot 1")
 
-[![Screenshot 2](./Screenshot_2_small.png "Screenshot 2")](./Screenshot_2_small.png "Screenshot 2")
+[![Screenshot 2](./Screenshot_2_small.png "Screenshot 2")](./Screenshot_2.png "Screenshot 2")
 
-[![Screenshot 3](./Screenshot_3_small.png "Screenshot 3")](./Screenshot_3_small.png "Screenshot 3")
+[![Screenshot 3](./Screenshot_3_small.png "Screenshot 3")](./Screenshot_3.png "Screenshot 3")
 
-[![Screenshot 4](./Screenshot_4_small.png "Screenshot 4")](./Screenshot_4_small.png "Screenshot 4")
+[![Screenshot 4](./Screenshot_4_small.png "Screenshot 4")](./Screenshot_4.png "Screenshot 4")
 
-[![Screenshot 5](./Screenshot_5_small.png "Screenshot 5")](./Screenshot_5_small.png "Screenshot 5")
+[![Screenshot 5](./Screenshot_5_small.png "Screenshot 5")](./Screenshot_5.png "Screenshot 5")
 
-[![Screenshot 6](./Screenshot_6_small.png "Screenshot 6")](./Screenshot_6_small.png "Screenshot 6")
+[![Screenshot 6](./Screenshot_6_small.png "Screenshot 6")](./Screenshot_6.png "Screenshot 6")
 
-[![Screenshot 7](./Screenshot_7_small.png "Screenshot 7")](./Screenshot_7_small.png "Screenshot 7")
+[![Screenshot 7](./Screenshot_7_small.png "Screenshot 7")](./Screenshot_7.png "Screenshot 7")
 
 ### Links to images in project
 
